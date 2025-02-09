@@ -25,28 +25,28 @@ To ensure the application is robust and to monitor for any runtime errors, we ha
 
 Below are some images showcasing the project, located in the `public/assets/Img-project` directory:
 ### Page1 - Project Image 1
-![Project Image 1](public/assets/Img-project/image1.png)
+![Project Image 1](public/assets/Img-project/page1.png)
 
 ### Page2 - Project Image 2
-![Project Image 2](public/assets/Img-project/image2.png)
+![Project Image 2](public/assets/Img-project/page2.png)
 
 ### Page3 - Project Image 3
-![Project Image 3](public/assets/Img-project/image3.png)
+![Project Image 3](public/assets/Img-project/page3.png)
 
 ### Page4 - Project Image 4
-![Project Image 4](public/assets/Img-project/image4.png)
+![Project Image 4](public/assets/Img-project/page4.png)
 
 ### Page5 - Project Image 5
-![Project Image 5](public/assets/Img-project/image5.png)
+![Project Image 5](public/assets/Img-project/page5.png)
 
 ### Page6 - Project Image 6
-![Project Image 6](public/assets/Img-project/image6.png)
+![Project Image 6](public/assets/Img-project/page6.png)
 
 ### Page7 - Project Image 7
-![Project Image 7](public/assets/Img-project/image7.png)
+![Project Image 7](public/assets/Img-project/page7.png)
 
 ### Page8 - Project Image 8
-![Project Image 8](public/assets/Img-project/image8.png)
+![Project Image 8](public/assets/Img-project/page8.png)
 
 ## Getting Started
 
